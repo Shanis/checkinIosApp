@@ -1,0 +1,13 @@
+{
+  "remoteAccessConsumerKey": "3MVG9fMtCkV6eLhdjnl3x8AOEvBCEVstdyPD1LE79EBkIbBApDNYB5EoOTweIqFQp5KoSh1.V644hOmhq0ztV",
+  "oauthRedirectURI": "sfdc://success",
+  "oauthScopes": [
+    "web",
+    "api"
+  ],
+  "isLocal": false,
+  "startPage": "/apex/CheckInApp",
+  "errorPage": "error.html",
+  "shouldAuthenticate": true,
+  "attemptOfflineLoad": false
+}
